@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>280</width>
-    <height>383</height>
+    <height>423</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -48,6 +48,9 @@
          <width>16777215</width>
          <height>16777215</height>
         </size>
+       </property>
+	   <property name="editable">
+        <bool>true</bool>
        </property>
       </widget>
      </item>
@@ -299,12 +302,12 @@
    <slot>setEnabled(bool)</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>247</x>
-     <y>314</y>
+     <x>267</x>
+     <y>349</y>
     </hint>
     <hint type="destinationlabel">
-     <x>223</x>
-     <y>313</y>
+     <x>233</x>
+     <y>349</y>
     </hint>
    </hints>
   </connection>
