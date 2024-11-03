@@ -6,7 +6,7 @@
 
 #include <spdlog/spdlog.h>
 
-using namespace kemai;
+using namespace kemai::updater;
 
 /*
  * Private impl
